@@ -1,3 +1,6 @@
+# Github CoPilot Wordle Experiment
+This project was a test to see what I could get copilot to complete. Therefore I tasked it with recreating wordle in Python. Everything you see from this point onward is writting by copilot...
+
 # Wordle Clone
 
 This project is a simple clone of the popular word-guessing game, Wordle. It features a graphical user interface built with Python and the Tkinter library.
